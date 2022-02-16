@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains the information on the topics like Dividend discount
   model and Cashflows, profitability, and growth.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-414-financial-management-summer-2003/406a59e7e0e1f5cb9edc1cf2c6be284d_lec6_firm_valuation1.pdf
+file: /media/courses/15-414-financial-management-summer-2003/406a59e7e0e1f5cb9edc1cf2c6be284d_lec6_firm_valuation1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec6_firm_valuation1.pdf
 uid: 406a59e7-e0e1-f5cb-9edc-1cf2c6be284d

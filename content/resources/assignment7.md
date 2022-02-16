@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains questions on the topic Massey-Ferguson, 1980.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-414-financial-management-summer-2003/b18a590bc359421bd8a16697b0c78001_assignment7.pdf
+file: /media/courses/15-414-financial-management-summer-2003/b18a590bc359421bd8a16697b0c78001_assignment7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assignment7.pdf
 uid: b18a590b-c359-421b-d8a1-6697b0c78001

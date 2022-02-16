@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Monthly returns for Selectroncs, competitors, and the market portfolio
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-414-financial-management-summer-2003/210d33a15dc2abf2aa7dee944f2c44a4_hw4selectronics.xls
+file: /media/courses/15-414-financial-management-summer-2003/210d33a15dc2abf2aa7dee944f2c44a4_hw4selectronics.xls
 file_type: application/msword
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: hw4selectronics.xls
 uid: 210d33a1-5dc2-abf2-aa7d-ee944f2c44a4

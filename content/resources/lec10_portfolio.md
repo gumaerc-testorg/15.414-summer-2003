@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Portfolio Theory
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-414-financial-management-summer-2003/7f13f92958ed23f8badd90be1608bdb5_lec10_portfolio.pdf
+file: /media/courses/15-414-financial-management-summer-2003/7f13f92958ed23f8badd90be1608bdb5_lec10_portfolio.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec10_portfolio.pdf
 uid: 7f13f929-58ed-23f8-badd-90be1608bdb5

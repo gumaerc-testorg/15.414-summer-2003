@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-414-financial-management-summer-2003/14e6c6c35e31be6342adf2040ab7bf3a_lec2_valuation.pdf
+file: /media/courses/15-414-financial-management-summer-2003/14e6c6c35e31be6342adf2040ab7bf3a_lec2_valuation.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec2_valuation.pdf
 uid: 14e6c6c3-5e31-be63-42ad-f2040ab7bf3a
