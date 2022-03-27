@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 17794f9e-5de1-e406-6928-77ad15c459a8
 resourcetype: Document
 title: lec11_capm.pdf
 uid: 73c891e1-8e10-fbb4-8a44-424e81f0222f

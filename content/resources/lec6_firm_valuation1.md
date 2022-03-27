@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 17794f9e-5de1-e406-6928-77ad15c459a8
 resourcetype: Document
 title: lec6_firm_valuation1.pdf
 uid: 406a59e7-e0e1-f5cb-9edc-1cf2c6be284d

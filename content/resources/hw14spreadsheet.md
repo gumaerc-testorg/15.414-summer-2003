@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ce2fdaf2-ac43-bec7-a309-b98a05787abf
 resourcetype: Other
 title: hw14spreadsheet.xls
 uid: a6284eb3-f5f7-cf17-3652-0099dba347ca

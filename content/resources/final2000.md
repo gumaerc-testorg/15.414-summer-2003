@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c9255b4c-b00d-b75a-bc27-30e50ec5b277
 resourcetype: Document
 title: final2000.pdf
 uid: 42bc9419-6d22-ea16-327e-e3f005b79f90

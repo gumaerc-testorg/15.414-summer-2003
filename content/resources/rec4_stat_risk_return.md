@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 49dc7414-2d5c-66a7-cc87-a82a3e43fa06
 resourcetype: Document
 title: rec4_stat_risk_return.pdf
 uid: 11d3d1ea-eac7-cfd6-7066-1cfee9714cec

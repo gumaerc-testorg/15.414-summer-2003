@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 17794f9e-5de1-e406-6928-77ad15c459a8
 resourcetype: Document
 title: lec2_valuation.pdf
 uid: 14e6c6c3-5e31-be63-42ad-f2040ab7bf3a

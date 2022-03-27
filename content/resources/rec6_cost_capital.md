@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 49dc7414-2d5c-66a7-cc87-a82a3e43fa06
 resourcetype: Document
 title: rec6_cost_capital.pdf
 uid: 3acca767-7a4f-a0eb-ff00-7e0bf3e2a425
