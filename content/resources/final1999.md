@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-414-financial-management-summer-2003/ac38165377c6c8a96f92a9dad295a883_final1999.pdf
+file: /courses/15-414-financial-management-summer-2003/ac38165377c6c8a96f92a9dad295a883_final1999.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

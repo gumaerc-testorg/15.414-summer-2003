@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about Risk management and Option payoffs.
-file: /media/courses/15-414-financial-management-summer-2003/a2d6c1b62d2bedb0bcc977bb27307ed0_lec19_options.pdf
+file: /courses/15-414-financial-management-summer-2003/a2d6c1b62d2bedb0bcc977bb27307ed0_lec19_options.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lec19_options.pdf
 uid: a2d6c1b6-2d2b-edb0-bcc9-77bb27307ed0
 ---
+This file contains information about Risk management and Option payoffs.
+

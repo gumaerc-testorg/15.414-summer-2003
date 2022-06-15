@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discounting
-file: /media/courses/15-414-financial-management-summer-2003/80128bf15ffd837a81be285fde59e08d_rec1_discounting.pdf
+file: /courses/15-414-financial-management-summer-2003/80128bf15ffd837a81be285fde59e08d_rec1_discounting.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
@@ -13,3 +13,5 @@ resourcetype: Document
 title: rec1_discounting.pdf
 uid: 80128bf1-5ffd-837a-81be-285fde59e08d
 ---
+Discounting
+

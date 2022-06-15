@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Microsoft? Excel software is recommended for viewing the .xls files in
+  this section. Free Microsoft? Excel viewer software can also be used to view the
+  .xls files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +10,7 @@ title: Assignments
 uid: ce2fdaf2-ac43-bec7-a309-b98a05787abf
 ---
 
-As noted in the course [syllabus]({{< baseurl >}}/pages/syllabus), the written assignments will consist of both problem sets and cases. The problem sets should be fairly straightforward. The cases are more difficult and longer, and we will typically discuss them in class. Students should work together on the assignments in groups of four.
+As noted in the course {{% resource_link 2723d0e8-985d-f029-e6c1-9d5513208a72 "syllabus" %}}, the written assignments will consist of both problem sets and cases. The problem sets should be fairly straightforward. The cases are more difficult and longer, and we will typically discuss them in class. Students should work together on the assignments in groups of four.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -81,9 +84,9 @@ Principles Of Valuation
 Evaluating Projects (1)
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/assignment1))  
+Problem Set 1 ({{% resource_link b3c55fa7-ebe5-60ec-eb1a-ea3add778ad2 "PDF" %}})  
   
-Financial Functions Spreadsheet ([XLS]({{< baseurl >}}/resources/financial_functions))
+Financial Functions Spreadsheet ({{% resource_link 9eb1c91e-9c98-ef18-42de-758cf7fbe37e "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +101,7 @@ Financial Functions Spreadsheet ([XLS]({{< baseurl >}}/resources/financial_funct
 Case: _Acid Rain: The Southern Co._
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2: Case ([PDF]({{< baseurl >}}/resources/assignment2))
+Problem Set 2: Case ({{% resource_link 53220a0a-5e99-cf45-bd67-984610d881eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +161,7 @@ Firm Valuation (2)
 Case: _Cooper Industries, Inc._
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3: Case ([PDF]({{< baseurl >}}/resources/assignment3))
+Problem Set 3: Case ({{% resource_link f90f6c4b-e877-1233-e493-2a4fe3c9fe3a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,11 +227,11 @@ CAPM
 Discount Rates in Practice
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/assignment4))  
+Problem Set 4 ({{% resource_link c74129c9-8ef8-8b07-5b23-69fa4b276597 "PDF" %}})  
   
-Selectronics Spreadsheet ([XLS]({{< baseurl >}}/resources/hw4selectronics))  
+Selectronics Spreadsheet ({{% resource_link 210d33a1-5dc2-abf2-aa7d-ee944f2c44a4 "XLS" %}})  
   
-Portfolio Spreadsheet ([XLS]({{< baseurl >}}/resources/hw14spreadsheet))
+Portfolio Spreadsheet ({{% resource_link a6284eb3-f5f7-cf17-3652-0099dba347ca "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +246,7 @@ Portfolio Spreadsheet ([XLS]({{< baseurl >}}/resources/hw14spreadsheet))
 Case: _Cost of Capital at Ameritrade_
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5: Case ([PDF]({{< baseurl >}}/resources/assignment5))
+Problem Set 5: Case ({{% resource_link 9ad34bba-1f5e-84ee-5a1f-76c95349a8a8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,9 +312,9 @@ Capital Structure (2)
 Two Cases: _Debt Policy at UST, Inc._ and _Massey-Ferguson Ltd. - 1980_
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 6: Case ([PDF]({{< baseurl >}}/resources/assignment6))  
+Problem Set 6: Case ({{% resource_link fce5dfe9-0876-c8b9-0795-2fa27d6d5756 "PDF" %}})  
   
-Problem Set 7: Case ([PDF]({{< baseurl >}}/resources/assignment7))
+Problem Set 7: Case ({{% resource_link b18a590b-c359-421b-d8a1-6697b0c78001 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-414-financial-management-summer-2003/14e6c6c35e31be6342adf2040ab7bf3a_lec2_valuation.pdf
+file: /courses/15-414-financial-management-summer-2003/14e6c6c35e31be6342adf2040ab7bf3a_lec2_valuation.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

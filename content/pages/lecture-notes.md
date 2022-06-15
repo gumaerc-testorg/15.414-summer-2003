@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -37,7 +38,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/lec1_intro))
+Introduction ({{% resource_link 5c98c1e5-495b-afed-f61c-f08f4834a5cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/lec1_intro))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Principles of Valuation ([PDF]({{< baseurl >}}/resources/lec2_valuation))
+Principles of Valuation ({{% resource_link 14e6c6c3-5e31-be63-42ad-f2040ab7bf3a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Principles of Valuation ([PDF]({{< baseurl >}}/resources/lec2_valuation))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Evaluating Projects (1) ([PDF]({{< baseurl >}}/resources/lec3_capital_budgeting))
+Evaluating Projects (1) ({{% resource_link db7e4784-cad8-bd72-7b08-7f077cab0eae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ Case: _Acid Rain: The Southern Co._
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Evaluating Projects (2) ([PDF]({{< baseurl >}}/resources/lec5_real_options))
+Evaluating Projects (2) ({{% resource_link 9b4f621e-d6a3-1989-abcf-69affe9d8c7f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +104,7 @@ Evaluating Projects (2) ([PDF]({{< baseurl >}}/resources/lec5_real_options))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Firm Valuation (1) ([PDF]({{< baseurl >}}/resources/lec6_firm_valuation1))
+Firm Valuation (1) ({{% resource_link 406a59e7-e0e1-f5cb-9edc-1cf2c6be284d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Firm Valuation (1) ([PDF]({{< baseurl >}}/resources/lec6_firm_valuation1))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Firm Valuation (2) ([PDF]({{< baseurl >}}/resources/lec7_firm_valuation2))
+Firm Valuation (2) ({{% resource_link aed2b4e5-5521-7671-b3f0-ccf872c7e488 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +146,7 @@ Case: _Cooper Industries, Inc._
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Risk and Return ([PDF]({{< baseurl >}}/resources/lec9_risk_return))
+Introduction to Risk and Return ({{% resource_link 5c8278b6-3e58-10a8-56f8-3d1dd42f3433 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Introduction to Risk and Return ([PDF]({{< baseurl >}}/resources/lec9_risk_retur
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Portfolio Theory ([PDF]({{< baseurl >}}/resources/lec10_portfolio))
+Portfolio Theory ({{% resource_link 7f13f929-58ed-23f8-badd-90be1608bdb5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Portfolio Theory ([PDF]({{< baseurl >}}/resources/lec10_portfolio))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-CAPM ([PDF]({{< baseurl >}}/resources/lec11_capm))
+CAPM ({{% resource_link 73c891e1-8e10-fbb4-8a44-424e81f0222f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +182,7 @@ CAPM ([PDF]({{< baseurl >}}/resources/lec11_capm))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Discount Rates in Practice ([PDF]({{< baseurl >}}/resources/lec12_discount_rates))
+Discount Rates in Practice ({{% resource_link 3f60643f-e526-6372-c439-ef083a52e96a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +212,7 @@ Case: _Cost of Capital at Ameritrade_
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Raising Capital ([PDF]({{< baseurl >}}/resources/lec14_raising_capital))
+Raising Capital ({{% resource_link d9695c41-380a-7849-ed7b-ec61b27e7331 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +224,7 @@ Raising Capital ([PDF]({{< baseurl >}}/resources/lec14_raising_capital))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Capital Structure (1) ([PDF]({{< baseurl >}}/resources/lec15_capital_structure1))
+Capital Structure (1) ({{% resource_link 891ff907-d8be-176e-9d4e-ba1beebde163 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +236,7 @@ Capital Structure (1) ([PDF]({{< baseurl >}}/resources/lec15_capital_structure1)
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Capital Structure (2) ([PDF]({{< baseurl >}}/resources/lec16_capital_structure2))
+Capital Structure (2) ({{% resource_link a251e87a-8182-f29e-48a0-90213ec69b3b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +260,7 @@ Two Cases: _Debt Policy at UST, Inc._ and _Massey-Ferguson Ltd. - 1980_
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Market Efficiency ([PDF]({{< baseurl >}}/resources/lec18_market_efficiency))
+Market Efficiency ({{% resource_link ef79a4c2-f199-baa2-ee7e-e119a02a064a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +272,7 @@ Market Efficiency ([PDF]({{< baseurl >}}/resources/lec18_market_efficiency))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Options (1) ([PDF]({{< baseurl >}}/resources/lec19_options))
+Options (1) ({{% resource_link a2d6c1b6-2d2b-edb0-bcc9-77bb27307ed0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +284,7 @@ Options (1) ([PDF]({{< baseurl >}}/resources/lec19_options))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Options (2) ([PDF]({{< baseurl >}}/resources/lec20_options2))  
+Options (2) ({{% resource_link bd1dfbf0-7678-4d64-9458-6eb77afb07a1 "PDF" %}})  
   
 Final Exam
 {{< tdclose >}}
