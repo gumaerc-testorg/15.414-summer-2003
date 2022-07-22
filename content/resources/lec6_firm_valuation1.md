@@ -6,6 +6,7 @@ file: /courses/15-414-financial-management-summer-2003/406a59e7e0e1f5cb9edc1cf2c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6_firm_valuation1.pdf
 uid: 406a59e7-e0e1-f5cb-9edc-1cf2c6be284d
 ---
 This file contains the information on the topics like Dividend discount model and Cashflows, profitability, and growth.
-

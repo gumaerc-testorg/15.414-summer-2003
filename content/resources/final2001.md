@@ -5,6 +5,7 @@ file: /courses/15-414-financial-management-summer-2003/5334fb211583f40d555b074ca
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final2001.pdf
 uid: 5334fb21-1583-f40d-555b-074ca4ca369f
 ---
 Final Exam II
-

@@ -5,6 +5,7 @@ file: /courses/15-414-financial-management-summer-2003/ac38165377c6c8a96f92a9dad
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

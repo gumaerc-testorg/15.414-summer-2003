@@ -5,6 +5,7 @@ file: /courses/15-414-financial-management-summer-2003/9eb1c91e9c98ef1842de758cf
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: financial_functions.xls
 uid: 9eb1c91e-9c98-ef18-42de-758cf7fbe37e
 ---
 Some useful financial functions
-

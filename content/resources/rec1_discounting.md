@@ -5,6 +5,7 @@ file: /courses/15-414-financial-management-summer-2003/80128bf15ffd837a81be285fd
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec1_discounting.pdf
 uid: 80128bf1-5ffd-837a-81be-285fde59e08d
 ---
 Discounting
-

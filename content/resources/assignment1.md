@@ -6,6 +6,7 @@ file: /courses/15-414-financial-management-summer-2003/b3c55fa7ebe560eceb1aea3ad
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment1.pdf
 uid: b3c55fa7-ebe5-60ec-eb1a-ea3add778ad2
 ---
 This file contains questions on the topic Evaluating Projects (1), which discusses Measuring cashflows, Taxes, Depreciation, and working capital.
-

@@ -6,6 +6,7 @@ file: /courses/15-414-financial-management-summer-2003/53220a0a5e99cf45bd6798461
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment2.pdf
 uid: 53220a0a-5e99-cf45-bd67-984610d881eb
 ---
 This file contains questions on the topic Acid rain: The Southern Company (A).
-

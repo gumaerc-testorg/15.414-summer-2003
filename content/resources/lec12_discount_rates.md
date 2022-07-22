@@ -5,6 +5,7 @@ file: /courses/15-414-financial-management-summer-2003/3f60643fe5266372c439ef083
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec12_discount_rates.pdf
 uid: 3f60643f-e526-6372-c439-ef083a52e96a
 ---
 Discount Rates in Practice
-
