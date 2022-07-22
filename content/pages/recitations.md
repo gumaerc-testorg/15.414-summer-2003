@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 49dc7414-2d5c-66a7-cc87-a82a3e43fa06
 ---
@@ -28,7 +32,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Discounting ([PDF]({{< baseurl >}}/resources/rec1_discounting))
+Discounting ({{% resource_link 80128bf1-5ffd-837a-81be-285fde59e08d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Discounting ([PDF]({{< baseurl >}}/resources/rec1_discounting))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Project Cashflows ([PDF]({{< baseurl >}}/resources/rec2_project_cashflows))
+Project Cashflows ({{% resource_link 704302ec-fb06-2878-8e30-ba29869dc418 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +56,7 @@ Project Cashflows ([PDF]({{< baseurl >}}/resources/rec2_project_cashflows))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Firm Valuation ([PDF]({{< baseurl >}}/resources/rec3_firm_valuation))
+Firm Valuation ({{% resource_link 37245bd7-200b-25d4-f6da-b95679968d68 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +68,7 @@ Firm Valuation ([PDF]({{< baseurl >}}/resources/rec3_firm_valuation))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Statistics of Risk and Return ([PDF]({{< baseurl >}}/resources/rec4_stat_risk_return))
+Statistics of Risk and Return ({{% resource_link 11d3d1ea-eac7-cfd6-7066-1cfee9714cec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +80,7 @@ Statistics of Risk and Return ([PDF]({{< baseurl >}}/resources/rec4_stat_risk_re
 5
 {{< tdclose >}}
 {{< tdopen >}}
-CAPM ([PDF]({{< baseurl >}}/resources/rec5_capm))
+CAPM ({{% resource_link 6429278b-a86f-fe25-6dcd-c954521b1b7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +92,7 @@ CAPM ([PDF]({{< baseurl >}}/resources/rec5_capm))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Cost Of Capital ([PDF]({{< baseurl >}}/resources/rec6_cost_capital))
+Cost Of Capital ({{% resource_link 3acca767-7a4f-a0eb-ff00-7e0bf3e2a425 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ Leverage and Risk
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Review ([PDF]({{< baseurl >}}/resources/rec8_review))
+Review ({{% resource_link 06a90bb7-4f44-8d93-cab8-67f9c4611120 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
