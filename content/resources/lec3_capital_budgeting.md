@@ -3,6 +3,7 @@ content_type: resource
 description: This file covers the topics, Measuring cashflows, Taxes, depreciation,
   and working capital.
 file: /courses/15-414-financial-management-summer-2003/db7e4784cad8bd727b087f077cab0eae_lec3_capital_budgeting.pdf
+file_size: 229716
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

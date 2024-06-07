@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-414-financial-management-summer-2003/d9695c41380a7849ed7bec61b27e7331_lec14_raising_capital.pdf
+file_size: 277583
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
