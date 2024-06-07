@@ -2,6 +2,7 @@
 content_type: resource
 description: Monthly returns for Selectroncs, competitors, and the market portfolio
 file: /courses/15-414-financial-management-summer-2003/210d33a15dc2abf2aa7dee944f2c44a4_hw4selectronics.xls
+file_size: 86528
 file_type: application/msword
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains questions on the topic Massey-Ferguson, 1980.
 file: /courses/15-414-financial-management-summer-2003/b18a590bc359421bd8a16697b0c78001_assignment7.pdf
+file_size: 88728
 file_type: application/pdf
 learning_resource_types:
 - Assignments

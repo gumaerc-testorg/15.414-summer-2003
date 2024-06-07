@@ -2,6 +2,7 @@
 content_type: resource
 description: Discounting
 file: /courses/15-414-financial-management-summer-2003/80128bf15ffd837a81be285fde59e08d_rec1_discounting.pdf
+file_size: 76939
 file_type: application/pdf
 learning_resource_types:
 - Recitations

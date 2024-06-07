@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-414-financial-management-summer-2003/73c891e18e10fbb48a44424e81f0222f_lec11_capm.pdf
+file_size: 250936
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

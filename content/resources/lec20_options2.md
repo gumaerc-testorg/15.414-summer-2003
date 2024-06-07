@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information on the topics Option pricing and Applications:
   Currency risk and convertible bonds.'
 file: /courses/15-414-financial-management-summer-2003/bd1dfbf076784d6494586eb77afb07a1_lec20_options2.pdf
+file_size: 250519
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

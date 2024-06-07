@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains questions on the topic, Cooper Industries, Inc.
 file: /courses/15-414-financial-management-summer-2003/f90f6c4be8771233e4932a4fe3c9fe3a_assignment3.pdf
+file_size: 102320
 file_type: application/pdf
 learning_resource_types:
 - Assignments

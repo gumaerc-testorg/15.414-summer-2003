@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-414-financial-management-summer-2003/f050fdcb428032bba58e64813e7441f0_midterm2001.pdf
+file_size: 132133
 file_type: application/pdf
 learning_resource_types:
 - Exams
