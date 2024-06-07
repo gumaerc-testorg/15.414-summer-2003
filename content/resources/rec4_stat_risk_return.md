@@ -2,6 +2,7 @@
 content_type: resource
 description: Statistics of Risk and Return
 file: /courses/15-414-financial-management-summer-2003/11d3d1eaeac7cfd670661cfee9714cec_rec4_stat_risk_return.pdf
+file_size: 70235
 file_type: application/pdf
 learning_resource_types:
 - Recitations

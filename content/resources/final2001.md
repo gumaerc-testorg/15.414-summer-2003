@@ -2,6 +2,7 @@
 content_type: resource
 description: Final Exam II
 file: /courses/15-414-financial-management-summer-2003/5334fb211583f40d555b074ca4ca369f_final2001.pdf
+file_size: 92689
 file_type: application/pdf
 learning_resource_types:
 - Exams
