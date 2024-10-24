@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample final exam
-file: /courses/15-414-financial-management-summer-2003/42bc94196d22ea16327ee3f005b79f90_final2000.pdf
+file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/42bc94196d22ea16327ee3f005b79f90_final2000.pdf
 file_size: 31650
 file_type: application/pdf
 learning_resource_types:

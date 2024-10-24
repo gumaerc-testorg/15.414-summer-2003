@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introduction and Overview of the course.
-file: /courses/15-414-financial-management-summer-2003/5c98c1e5495bafedf61cf08f4834a5cf_lec1_intro.pdf
+file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/5c98c1e5495bafedf61cf08f4834a5cf_lec1_intro.pdf
 file_size: 151832
 file_type: application/pdf
 learning_resource_types:

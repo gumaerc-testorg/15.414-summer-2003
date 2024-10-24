@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review of main ideas of the course.
-file: /courses/15-414-financial-management-summer-2003/06a90bb74f448d93cab867f9c4611120_rec8_review.pdf
+file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/06a90bb74f448d93cab867f9c4611120_rec8_review.pdf
 file_size: 146627
 file_type: application/pdf
 learning_resource_types:
