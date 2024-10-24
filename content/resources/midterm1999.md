@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-414-financial-management-summer-2003/0835fd9a29cb04e1ab80de22a19bfc4b_midterm1999.pdf
+file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/0835fd9a29cb04e1ab80de22a19bfc4b_midterm1999.pdf
 file_size: 42478
 file_type: application/pdf
 learning_resource_types:
