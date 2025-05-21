@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introduction to Risk and Return
-file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/5c8278b63e5810a856f83d1dd42f3433_lec9_risk_return.pdf
+file: /courses/15-414-financial-management-summer-2003/5c8278b63e5810a856f83d1dd42f3433_lec9_risk_return.pdf
 file_size: 501811
 file_type: application/pdf
 learning_resource_types:

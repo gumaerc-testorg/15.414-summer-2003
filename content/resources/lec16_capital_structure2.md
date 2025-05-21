@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Capital structure (2), including M&M theorem, Leverage, risk, and WACC.
-file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/a251e87a8182f29e48a090213ec69b3b_lec16_capital_structure2.pdf
+file: /courses/15-414-financial-management-summer-2003/a251e87a8182f29e48a090213ec69b3b_lec16_capital_structure2.pdf
 file_size: 246466
 file_type: application/pdf
 learning_resource_types:

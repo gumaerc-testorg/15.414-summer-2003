@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about Risk management and Option payoffs.
-file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/a2d6c1b62d2bedb0bcc977bb27307ed0_lec19_options.pdf
+file: /courses/15-414-financial-management-summer-2003/a2d6c1b62d2bedb0bcc977bb27307ed0_lec19_options.pdf
 file_size: 230176
 file_type: application/pdf
 learning_resource_types:

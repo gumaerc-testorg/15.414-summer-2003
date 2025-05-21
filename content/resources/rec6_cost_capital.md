@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Cost Of Capital
-file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/3acca7677a4fa0ebff007e0bf3e2a425_rec6_cost_capital.pdf
+file: /courses/15-414-financial-management-summer-2003/3acca7677a4fa0ebff007e0bf3e2a425_rec6_cost_capital.pdf
 file_size: 60553
 file_type: application/pdf
 learning_resource_types:

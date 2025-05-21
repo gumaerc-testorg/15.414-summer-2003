@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Portfolio Theory
-file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/7f13f92958ed23f8badd90be1608bdb5_lec10_portfolio.pdf
+file: /courses/15-414-financial-management-summer-2003/7f13f92958ed23f8badd90be1608bdb5_lec10_portfolio.pdf
 file_size: 241509
 file_type: application/pdf
 learning_resource_types:

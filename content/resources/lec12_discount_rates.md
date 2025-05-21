@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discount Rates in Practice
-file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/3f60643fe5266372c439ef083a52e96a_lec12_discount_rates.pdf
+file: /courses/15-414-financial-management-summer-2003/3f60643fe5266372c439ef083a52e96a_lec12_discount_rates.pdf
 file_size: 246920
 file_type: application/pdf
 learning_resource_types:
