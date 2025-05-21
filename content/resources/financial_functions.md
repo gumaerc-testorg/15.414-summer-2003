@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Some useful financial functions
-file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/9eb1c91e9c98ef1842de758cf7fbe37e_financial_functions.xls
+file: /courses/15-414-financial-management-summer-2003/9eb1c91e9c98ef1842de758cf7fbe37e_financial_functions.xls
 file_size: 15872
 file_type: application/msword
 learning_resource_types:

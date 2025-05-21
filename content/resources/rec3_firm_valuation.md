@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Firm Valuation
-file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/37245bd7200b25d4f6dab95679968d68_rec3_firm_valuation.pdf
+file: /courses/15-414-financial-management-summer-2003/37245bd7200b25d4f6dab95679968d68_rec3_firm_valuation.pdf
 file_size: 69325
 file_type: application/pdf
 learning_resource_types:

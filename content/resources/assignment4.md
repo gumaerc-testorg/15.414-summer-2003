@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions on the topic Discount rates.
-file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/c74129c98ef88b075b2369fa4b276597_assignment4.pdf
+file: /courses/15-414-financial-management-summer-2003/c74129c98ef88b075b2369fa4b276597_assignment4.pdf
 file_size: 102618
 file_type: application/pdf
 learning_resource_types:
