@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: CAPM
-file: /courses/15-414-financial-management-summer-2003/6429278ba86ffe256dcdc954521b1b7b_rec5_capm.pdf
+file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/6429278ba86ffe256dcdc954521b1b7b_rec5_capm.pdf
 file_size: 66782
 file_type: application/pdf
 learning_resource_types:

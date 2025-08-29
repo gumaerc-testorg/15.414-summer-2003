@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains questions on the topic Evaluating Projects (1), which
   discusses Measuring cashflows, Taxes, Depreciation, and working capital.
-file: /courses/15-414-financial-management-summer-2003/b3c55fa7ebe560eceb1aea3add778ad2_assignment1.pdf
+file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/b3c55fa7ebe560eceb1aea3add778ad2_assignment1.pdf
 file_size: 83669
 file_type: application/pdf
 learning_resource_types:

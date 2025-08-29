@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contain information on the topics Real options and Alternative
   investment criteria.
-file: /courses/15-414-financial-management-summer-2003/9b4f621ed6a31989abcf69affe9d8c7f_lec5_real_options.pdf
+file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/9b4f621ed6a31989abcf69affe9d8c7f_lec5_real_options.pdf
 file_size: 246527
 file_type: application/pdf
 learning_resource_types:

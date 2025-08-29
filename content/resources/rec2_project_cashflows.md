@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Project Cashflows
-file: /courses/15-414-financial-management-summer-2003/704302ecfb0628788e30ba29869dc418_rec2_project_cashflows.pdf
+file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/704302ecfb0628788e30ba29869dc418_rec2_project_cashflows.pdf
 file_size: 61494
 file_type: application/pdf
 learning_resource_types:
