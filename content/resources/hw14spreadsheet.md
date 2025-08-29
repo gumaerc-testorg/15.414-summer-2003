@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Portfolios of 2, 3, and 4 assets
-file: /courses/15-414-financial-management-summer-2003/a6284eb3f5f7cf1736520099dba347ca_hw14spreadsheet.xls
+file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/a6284eb3f5f7cf1736520099dba347ca_hw14spreadsheet.xls
 file_size: 19456
 file_type: application/msword
 learning_resource_types:

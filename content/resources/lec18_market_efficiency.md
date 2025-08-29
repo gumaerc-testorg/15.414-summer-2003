@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Market Efficiency
-file: /courses/15-414-financial-management-summer-2003/ef79a4c2f199baa2ee7ee119a02a064a_lec18_market_efficiency.pdf
+file: /ol-ocw-studio-app/courses/15-414-financial-management-summer-2003/ef79a4c2f199baa2ee7ee119a02a064a_lec18_market_efficiency.pdf
 file_size: 232164
 file_type: application/pdf
 learning_resource_types:
